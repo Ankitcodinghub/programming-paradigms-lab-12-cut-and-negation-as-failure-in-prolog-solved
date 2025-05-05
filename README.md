@@ -1,0 +1,1 @@
+# programming-paradigms-lab-12-cut-and-negation-as-failure-in-prolog-solved
